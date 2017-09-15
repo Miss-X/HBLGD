@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1365px;
+  width:1354px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -327,7 +327,7 @@
 }
 #u96 {
   position:absolute;
-  left:253px;
+  left:242px;
   top:246px;
   width:1114px;
   height:60px;
@@ -448,8 +448,8 @@
 }
 #u105 {
   position:absolute;
-  left:802px;
-  top:408px;
+  left:614px;
+  top:405px;
   width:167px;
   height:14px;
   font-size:11px;
@@ -480,8 +480,8 @@
 }
 #u107 {
   position:absolute;
-  left:983px;
-  top:405px;
+  left:795px;
+  top:402px;
   width:20px;
   height:20px;
 }
@@ -511,8 +511,8 @@
 }
 #u109 {
   position:absolute;
-  left:1029px;
-  top:405px;
+  left:841px;
+  top:402px;
   width:20px;
   height:20px;
 }
@@ -532,8 +532,8 @@
 }
 #u111 {
   position:absolute;
-  left:1006px;
-  top:405px;
+  left:818px;
+  top:402px;
   width:20px;
   height:20px;
   color:#FFFFFF;
@@ -547,8 +547,8 @@
 }
 #u113 {
   position:absolute;
-  left:898px;
-  top:406px;
+  left:710px;
+  top:403px;
   width:55px;
   height:19px;
 }
@@ -1215,14 +1215,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
+  width:99px;
   height:72px;
 }
 #u157 {
   position:absolute;
   left:707px;
   top:304px;
-  width:65px;
+  width:99px;
   height:72px;
   font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
@@ -1233,7 +1233,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
+  width:99px;
   white-space:nowrap;
 }
 #u160_div {
@@ -1817,4 +1817,64 @@
   width:96px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u187 {
+  position:absolute;
+  left:244px;
+  top:316px;
+  width:29px;
+  height:16px;
+}
+#u188 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:11px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u187_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u189 {
+  position:absolute;
+  left:244px;
+  top:351px;
+  width:29px;
+  height:16px;
+}
+#u190 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:11px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u189_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u191 {
+  position:absolute;
+  left:244px;
+  top:266px;
+  width:29px;
+  height:16px;
+}
+#u192 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:11px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u191_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
 }
