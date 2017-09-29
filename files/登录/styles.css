@@ -693,35 +693,3 @@
   width:136px;
   word-wrap:break-word;
 }
-#u42_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  text-decoration:underline;
-  color:#999999;
-}
-#u42 {
-  position:absolute;
-  left:972px;
-  top:413px;
-  width:57px;
-  height:20px;
-  text-decoration:underline;
-  color:#999999;
-}
-#u43 {
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:53px;
-  white-space:nowrap;
-}
