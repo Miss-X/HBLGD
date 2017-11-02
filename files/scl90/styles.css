@@ -2332,7 +2332,7 @@
 }
 #u163 {
   position:absolute;
-  left:428px;
+  left:544px;
   top:178px;
   width:100px;
   height:64px;
@@ -2356,10 +2356,13 @@
 }
 #u165 {
   position:absolute;
-  left:544px;
+  left:428px;
   top:178px;
   width:100px;
   height:64px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
   text-align:center;
   line-height:25px;
